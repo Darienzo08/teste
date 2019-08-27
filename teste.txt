@@ -4,6 +4,7 @@
 3. coloque o comando git clone "link".git(para clonar)
 4. salve todos os arquivos dentro da pasta clonada
 5. no prompt de comando, coloque o comando git add
-6. coloque o comando git commit -m "nome do commit"
+6. coloque o comando git commit (se quiser, coloque '-m "nome do commit" ' apenas para localização mais facil)
 7. agora, para mandar o conteudo da pasta para o github, de o comando git push
 	agora o conteúdo da pasta está no github
+quando necessitar do conteúdo, repita o passo 3 e ele virá com os arquivos armazenados no repositório online
